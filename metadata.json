@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Edge AI",
+  "description": "Forex signal forecasting and paper-trading dashboard with multi-horizon probability analytics, scheduled alerts, and disciplined execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
